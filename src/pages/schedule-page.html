@@ -112,6 +112,11 @@
             type: Array
           },
 
+          selected: {
+            type: Boolean,
+            observer: '_selectedChanged'
+          },
+
           animationConfig: {
             type: Object,
             value: function () {
@@ -141,7 +146,13 @@
         ],
 
         listeners: {
-          'iron-overlay-closed': '_resetSessionIdParam'
+          'iron-overlay-closed': '_resetSessionIdParam',
+        },
+
+        _selectedChanged: function (isSelected) {
+          if (isSelected && !this.get('app.selectedDay')) {
+            this.set('routeData.day', 'day1');
+          }
         },
 
         _routePageChanged: function (day) {
