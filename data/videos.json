@@ -1,0 +1,19 @@
+[
+  {
+    "youtubeId": "FrqUqwxgk5A",
+    "title": "Material Coordination",
+    "speakers": "Chris Stewart",
+    "thumbnail": "/images/videos/stewart.jpg"
+  },
+  {
+    "youtubeId": "psPucDk49GY",
+    "title": "Gradle Beyond Android",
+    "speakers": "Vitaliy Zasadnyy",
+    "thumbnail": "/images/videos/zasadnyy.jpg"
+  },
+  {
+    "youtubeId": "JiLYsYvCs-A",
+    "title": "GDG DevFest NL 2015 recap",
+    "thumbnail": "/images/videos/recap.jpg"
+  }
+]

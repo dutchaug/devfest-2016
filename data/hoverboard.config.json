@@ -1,0 +1,228 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/amsterdam.jpg",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "GDG DevFest The Netherlands 2015",
+          "youtubeId": "JiLYsYvCs-A",
+          "text": "See how it was in 2015"
+        },
+        "hideLogo": false,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "code-of-conduct": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "route": "home",
+        "url": "/"
+      },
+      {
+        "route": "speakers",
+        "url": "/speakers/"
+      }, 
+      {
+        "route": "schedule",
+        "url": "/schedule/"
+      },      
+      {
+        "route": "blog",
+        "url": "/blog/"
+      },
+      {
+        "route": "team",
+        "url": "/team/"
+      }
+    ],
+    "buttons": [
+      {
+        "route": "buy-ticket",
+        "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
+        "target": "_blank"
+      }
+    ]
+  },
+  "url": "https://devfest.nl/",
+  "mailchimp": {
+    "url": "https://dutchaug.us6.list-manage.com/subscribe?u=00dd8d0a15bf77f68bd75d643&id=3ce443d9a5",
+    "name": "b_9fc8aa205b0521b5f05fc8e1e_ae0fb459fc"
+  },
+  "partnershipProposition": "maito:info@devfest.nl?subject=DevFest NL partnership&body=Hi organizers of GDG DevFest NL 2016,",
+  "disqusShortName": "",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "http://2015.devfest.nl",
+          "newTab": true
+        },
+        {
+          "text": "code-of-conduct",
+          "url": "/code-of-conduct",
+          "newTab": false
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "info@devfest.nl",
+        "url": "mailto:info@devfest.nl"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "https://devfestnl16.eventbrite.com/?aff=www#tickets",
+    "elements": [
+      {
+        "name": "early-ticket",
+        "price": 0,
+        "currency": "",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": true
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 0,
+        "currency": "",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 500,
+      "caption": "attendees"
+    },
+    {
+      "counter": 1,
+      "caption": "days"
+    },
+    {
+      "counter": 20,
+      "caption": "sessions"
+    },
+    {
+      "counter": 3,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "devfestnl",
+  "social": [
+    {
+      "name": "twitter",
+      "nickname": "DevFestNL",
+      "url": "https://twitter.com/devfestnl"
+    },
+    {
+      "name": "gplus",
+      "nickname": "113182948271879290904",
+      "url": "https://plus.google.com/113182948271879290904"
+    },
+    {
+      "name": "facebook",
+      "nickname": "dutchaug",
+      "url": "https://www.facebook.com/groups/dutchaug/"
+    },
+    {
+      "name": "linkedin",
+      "nickname": "3669069",
+      "url": "https://www.linkedin.com/groups/3669069"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://goo.gl/photos/n3XUqoDjnecBGgBn9",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "http://www.uva.nl/en/about-the-uva/organisation/faculties/content/faculteit-der-natuurwetenschappen-wiskunde-en-informatica/faculty-of-science.html",
+    "pointer": {
+      "latitude": 52.3544534,
+      "longitude": 4.9553595,
+      "zoom": 15
+    },
+    "mapCenter": {
+        "latitude": 52.3544534,
+        "longitude": 4.9553595
+    },
+    "images": [
+      "/images/backgrounds/2015_1.jpg",
+      "/images/backgrounds/2015_2.jpg",
+      "/images/backgrounds/2015_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "JiLYsYvCs-A"
+  }
+}

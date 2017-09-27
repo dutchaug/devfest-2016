@@ -1,0 +1,271 @@
+{
+    "registration": {
+        "id": "registration",
+        "title": "Registration & morning coffee",
+        "description": "Get your badge and enjoy some coffee or tea.",
+        "image": "/images/backgrounds/registration.jpg",
+        "track": {
+            "title": "Foyer"
+        }
+    },
+    "opening": {
+        "id": "opening",
+        "title": "GDG DevFest The Netherlands 2016 Opening",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+        "image": "/images/backgrounds/opening.jpg"
+    },
+    "lunch": {
+        "id": "lunch",
+        "title": "Lunch",
+        "description": "A one hour break for lunch and networking.",
+        "image": "/images/backgrounds/lunch.jpg",
+        "track": {
+            "title": "Foyer"
+        }
+    },
+    "break": {
+        "id": "break",
+        "title": "Afternoon break",
+        "description": "An afternoon break for sponsor pitches and chatting.",
+        "image": "/images/backgrounds/coffee-break.jpg",
+        "track": {
+            "title": "Foyer"
+        }
+    },
+    "party": {
+        "id": "party",
+        "title": "After party & networking",
+        "description": "The after party is a great time to have fun and meet new people!",
+        "image": "/images/backgrounds/party.jpg",
+        "track": {
+            "title": "Café Oerknal"
+        }
+    },
+    "android_0": {
+        "id": "android_0",
+        "title": "Use code ​generation to make better apps",
+        "description": "Always wondered what the big companies like Google, Square or Twitter use when building their apps? Stop wasting your time ​writing boilerplate code and start using the power of code generation tools and ​libraries​ like AutoValue, Dagger, SQLdelight and Annotation processing.",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "3"
+        ],
+        "complexity": "Intermediate"
+    },
+    "android_1": {
+        "id": "android_1",
+        "title": "Practical RxJava for Android",
+        "description": "A practical guide to using RxJava on Android. Tips for improving your app architecture with reactive programming. What are the advantages and disadvantages of using RxJava over standard architecture? And how to connect with other popular Android libraries?",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "16"
+        ],
+        "complexity": "Advanced"
+    },
+    "android_2": {
+        "id": "android_2",
+        "title": "Triple IT",
+        "description": "Stay tuned for updates on the schedule.",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [],
+        "complexity": "Beginner"
+    },
+    "android_4": {
+        "id": "android_4",
+        "title": "No excuses: switch to Kotlin",
+        "description": "Are you stuck in the Java world? I’ll share my story about convincing my team and the client of the benefits of Kotlin. Furthermore I’ll delve into how we migrated an existing Java Android app, with 300k active users, to Kotlin. Even if you have never seen Kotlin before, come and see how you will create better apps with this modern and elegant language. At the end of this talk you’ll be able to convince your team / client why it’s a great to use Kotlin. The power of Kotlin can be leveraged everywhere you use Java, since it compiles to JVM bytecode. So even if you’re not an Android developer, check out this session to get acquainted with Kotlin! No excuses: switch to Kotlin :)",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "6"
+        ],
+        "complexity": "Beginner"
+    },
+    "web_3": {
+        "id": "web_3",
+        "title": "Sharing Code Between Web and Native Apps",
+        "description": "NativeScript has opened up a whole new world to Angular developers: the ability to share code directly between your web and native iOS/Android applications. Which is awesome! But, just because you can share code across multiple platforms, doesn’t mean that you necessarily should. In this talk we’ll first take a look at what NativeScript makes possible from a code sharing perspective. We’ll build a few Angular components and use them both in the browser and on mobile devices. Then we’ll take a step back and look at the same code from a pragmatic, maintenance-oriented perspective. Come for practical tips & tricks on sharing code across multiple development environments.",
+        "tags": [
+            "NativeScript"
+        ],
+        "speakers": [
+            "7"
+        ],
+        "complexity": "Beginner"
+    },
+    "android_5": {
+        "id": "android_5",
+        "title": "Impress your user's inner child!",
+        "description": "Tying up the users to your app is the most important and yet one of the most puzzling parts. Users will already have a strong impression about your app the first 30''; Yes, including splash screens or empty lists and loading indicators, that are pretty much impossible to avoid in most of the apps. So all we need is some stardust, say the 'abracadabra' 3 times, and the boring splash screen or the empty screen will transform to something entertaining and interesting that will impress our users! Wait... what?! How do I do this? A great place to start is learning to leverage Android's animation SDKs ;-)",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "8"
+        ],
+        "complexity": "Beginner"
+    },
+    "cloud_0": {
+        "id": "cloud_0",
+        "title": "Philips Hue ❤ Kubernetes",
+        "description": "We’ll share our learnings of using Kubernetes in production: Imagine you’re Philips Hue and you have a bunch of containerized microservices that need to run on lots of servers. How do you handle that? We’ll talk about our solution using Kubernetes and Google Container Engine. OK, now you have all those microservices running on a cluster, but you actually need them on a production cluster, a test cluster and a development cluster etc. So you need something that’s aware of all those environments and can deploy it all without breaking stuff. We’ll talk about our extensive deploy scripts which solve most of the complications and safety checks. Another thing which made our life much easier was building a custom autoscaler. Normally scaling is done with the CPU metric. With Kubernetes it is possible to use other metrics to scale your resources. We’ll show how we built our own custom autoscaler and how it works. Even if you’re not a Kubernetes expert, you will learn how to leverage the power of Kubernetes especially for large scale projects.",
+        "tags": [
+            "Kubernetes"
+        ],
+        "speakers": [
+            "9"
+        ],
+        "complexity": "Intermediate"
+    },
+    "cloud_1": {
+        "id": "cloud_1",
+        "title": "Go-ing Forward with The Things Network",
+        "description": "One year after we launched The Things Network, it has been picked up by more than 250 communities around the world. In this talk, I'll go a bit deeper into specific Go techniques we use to run the system, as well as upstream integrations with Brillo and Weave.",
+        "tags": [
+            "Go",
+            "Brillo",
+            "Weave"
+        ],
+        "speakers": [
+            "1"
+        ],
+        "complexity": "Intermediate"
+    },
+    "cloud_2": {
+        "id": "cloud_2",
+        "title": "Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first",
+        "description": "gRPC is a high performance, language-neutral, general RPC framework developed and open sourced by Google. Built on the HTTP/2 standard, gRPC brings many benefits such as bidirectional streaming, flow control, header compression, multiplexing and more. In this session, you will learn about gRPC and how you can use it in your applications.",
+        "tags": [
+            "gRPC"
+        ],
+        "speakers": [
+            "4"
+        ],
+        "complexity": "Beginner"
+    },
+    "cloud_3": {
+        "id": "cloud_3",
+        "title": "Build your own PaaS using Kubernetes and Deis",
+        "description": "The talk should help people get started on getting existing workloads—whether it being Dockerfiles, Docker images or Heroku apps—on Kubernetes using Kubernetes, Deis and Helm. It'll cover just enough of Kubernetes to get what pods, deployments and services are, and how tags work, and it'll go into detail about how to get a Deis cluster up and running and how to deploy an existing example app made for Heroku onto the cluster.",
+        "tags": [
+            "Kubernetes"
+        ],
+        "speakers": [
+            "10"
+        ],
+        "complexity": "Intermediate"
+    },
+    "cloud_4": {
+        "id": "cloud_4",
+        "title": "Making your cool app Awesome",
+        "description": "Of course your app is already the coolest app ever, but do you want to learn how to make your cool app truly awesome? The secret is by mixing in the magic of machine learning. Oh well, not really magic or a secret anymore when you use  the Google Cloud APIs for Machine Learning. In this session you'll be shown how the use  machine learning in your applications. And because this is DevFest there will be live coding! Using Polymer and Firebase we'll create an interactive application that uses the Google Cloud Vision API and that will show you the ease of Machine Learning. We might throw in some other Google APIs too. Just for fun.",
+        "tags": [
+            "Polymer",
+            "Firebase"
+        ],
+        "speakers": [
+            "11"
+        ],
+        "complexity": "Intermediate"
+    },
+    "cloud_5": {
+        "id": "cloud_5",
+        "title": "Introducing TensorFlow: The game changer in building \"intelligent\" applications",
+        "description": "Tensorflow was released almost a year ago. Since then there was a lot of news on this topic. Although it is very powerful, for most developers it could be bridge too far. This session is about what Tensorflow is, what the concepts are,  how you start planning it applying for yourself. Some coding. Use cases and implementations will be shown.",
+        "tags": [
+            "Tensorflow"
+        ],
+        "speakers": [
+            "12"
+        ],
+        "complexity": "Beginner"
+    },
+    "web_0": {
+        "id": "web_0",
+        "title": "Introduction to the New Firebase",
+        "description": "We'll go over all the new Firebase features and depending on the audience (are they Web / Android / etc?) We can dig into specific examples and use cases.",
+        "tags": [
+            "Firebase"
+        ],
+        "speakers": [
+            "2"
+        ],
+        "complexity": "Beginner"
+    },
+    "web_1": {
+        "id": "web_1",
+        "title": "The productive developer guide to Angular 2",
+        "description": "For many developer the Angular 1 framework has been a huge boost in productivity. Having most of the tools needed to build an advanced data oriented application was a huge benefit. But Angular 1 is showing its age and is now replaced with a newer version. This new Angular 2 framework is not just an upgrade from the older Angular 1. Instead it is a complete from the ground up rewrite. This means we have to relearn quite a bit but Angular 2 is worth the effort. There are lots of improvements and Angular 2 has a bright future. In this session Maurice de Beijer will show you how to get started with Angular 2. He will show how and why it is different from its famous predecessor.",
+        "tags": [
+            "Angular"
+        ],
+        "speakers": [
+            "5"
+        ],
+        "complexity": "Intermediate"
+    },
+    "web_2": {
+        "id": "web_2",
+        "title": "The Tale of 3 CLIs - Ember, Angular, and React",
+        "description": "Ember-CLI, Angular-CLI, and Create-React-App are necessities to web development, and many who have not had exposure to such wonderful technologies wonder what they are actually missing. This talk will show you how easy it is to scaffold up all 3 projects in less than 30 minutes, how to shave days, even weeks, off your development cycle, and why you should choose convention over configuration.",
+        "tags": [
+            "Angular"
+        ],
+        "speakers": [
+            "0"
+        ],
+        "complexity": "Beginner"
+    },
+    "android_3": {
+        "id": "android_3",
+        "title": "Making Darwin Proud: Coding Evolutionary Algorithms",
+        "description": "Java Developers sometimes face programming challenges, such as creating a school roster or determining a salesperson's optimal route, that are extremely difficult to crack using conventional approaches. Discover how Evolutionary Algorithms can be applied to solve these complex puzzles. The session starts with a success story from the NASA space archives to explain the concepts. Once the stage is set, it's puzzle solving time! Learn to code Evolutionary Algorithms using plain Java - although existing Java frameworks such as JGAP are also addressed. The session concludes with a checklist that can be used to determine whether Evolutionary Algorithms are a good fit to the problem. With this checklist, the decision has never been easier!",
+        "tags": [
+            "Android"
+        ],
+        "speakers": [
+            "13"
+        ],
+        "complexity": "Beginner"
+    },
+    "web_4": {
+        "id": "web_4",
+        "title": "REST API testing in practice",
+        "description": "How do you write maintainable tests to verify your API contracts? How do you simulate connectivity problems to verify API error handling?. How do you execute these tests in an isolated environment?  This talk will share the experiences we have at bol.com with different approaches to these problems.",
+        "tags": [
+            "Go"
+        ],
+        "speakers": [
+            "14"
+        ],
+        "complexity": "Intermediate"
+    },
+    "web_5": {
+        "id": "web_5",
+        "title": "AMP tries to fix the web. What can we learn from it?",
+        "description": "The Accelerated Mobile Pages (AMP) Project—Google’s approach to fix the web for publishers—is barely one year old. It promises fast loading pages and an excellent user experience. Some people say it breaks the open web and whether you agree with it or not — looking at it technically, it is an interesting approach that offers many solutions. What problems do we face today? How does AMP solve these problems? Can we apply these solutions in our daily workflow? Let’s view the source and learn more!",
+        "tags": [
+            "AMP"
+        ],
+        "speakers": [
+            "15"
+        ],
+        "complexity": "Beginner"
+    },
+    "health_1": {
+        "id": "health_1",
+        "title": "Healthy Minds in a Healthy Community",
+        "description": "Open source communities attract and boast passionate, idealistic people, and many of us invest copious amounts of time and effort to contribute to our projects and support our communities. This underlying emotional attachment can make us more vulnerable to elevated stress, burnout and conflicts. And then there are those of us who also manage mental illness.\n\nMore often than not, we suffer these struggles in silence, feeling (and fearing) that we’re alone in our trouble. Here, our communities can make a huge difference, by building a positive and safe environment where we can blossom and support ourselves and our peers, and feel included.\n\nThis talk will take a look at open-source communities through the eyes of various mental well-being issues and struggles, show various things that some communities already do. We will also cover several new initiatives from the community around Django, a common open-source web framework for Python, to further promote the well-being of our community members. This will hopefully inspire more communities to help foster healthy minds in a healthy environment.",
+        "tags": ["community", "health"],
+        "speakers": [
+            "17"
+        ],
+        "complexity": "Everyone"
+    }
+}

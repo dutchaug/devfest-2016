@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Organizing Team",
+    "members": [
+      {
+        "name": "Johan Pelgrim",
+        "photoUrl": "/images/people/pelgrim.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JohanPelgrim",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/jowipe",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/johan.pelgrim",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/johanpelgrim",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://codestone.nl/",
+            "name": "Website"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Paul Lammertsma",
+        "photoUrl": "/images/people/lammertsma.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+PaulLammertsma",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/paul.lammertsma",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/officesunshine",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/paullammertsma",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://pixplicity.com/",
+            "name": "Website"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Hugo Visser",
+        "photoUrl": "/images/people/visser.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+HugoVisser",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/botteaap",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/visserh",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://littlerobots.nl/",
+            "name": "Website"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Dennis Geurts",
+        "photoUrl": "/images/people/geurts.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/108236118232381198098",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/dennisgggg",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/dennis.geurts.58",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/dennisgeurts",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Wiebe Elsinga",
+        "photoUrl": "/images/people/elsinga.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://google.com/+WiebeElsinga",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/welsinga",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/welsinga",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/welsinga",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
+      },
+      {
+        "name": "Jairzinno Henriquez",
+        "photoUrl": "/images/people/henriquez.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JairzinnoHenriquez",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/Jairzinno",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/jairzinno",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/jairzinno-henriquez-32b6559a",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": ""
+      },
+        {
+            "name": "Rokesh Jankie",
+            "photoUrl": "/images/people/jankie.jpg",
+            "socials": [
+                {
+                    "icon": "gplus",
+                    "link": "https://plus.google.com/+RokeshJankie",
+                    "name": "Google+"
+                },
+                {
+                    "icon": "twitter",
+                    "link": "https://twitter.com/rjankie",
+                    "name": "Twitter"
+                },
+                {
+                    "icon": "linkedin",
+                    "link": "https://www.linkedin.com/in/rjankie",
+                    "name": "LinkedIn"
+                }
+            ],
+            "title": ""
+        }
+
+    ]
+  }
+]

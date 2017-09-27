@@ -1,0 +1,116 @@
+[
+  {
+    "title": "main-sponsor",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com/intl/en/about/",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 300,
+        "height": 120
+      }
+    ]
+  },
+  {
+    "title": "platinum-sponsor",
+    "logos": [{
+        "name": "Triple IT",
+        "url": "https://www.wearetriple.com/",
+        "logoUrl": "../images/logos/triple.png",
+        "width": 450,
+        "height": 180
+      }
+    ]
+  },
+  {
+    "title": "after-party-sponsor",
+    "logos": [{
+        "name": "Albert Heijn",
+        "url": "https://www.ah.nl/itjobs",
+        "logoUrl": "../images/logos/albert-heijn.jpg",
+        "width": 340,
+        "height": 136
+      }
+    ]
+  },
+  {
+    "title": "gold-sponsor",
+    "logos": [{
+        "name": "Q42",
+        "url": "https://www.q42.nl/",
+        "logoUrl": "../images/logos/q42.png",
+        "width": 375,
+        "height": 150
+      },
+      {
+        "name": "JDriven",
+        "url": "http://www.jdriven.com/",
+        "logoUrl": "../images/logos/jdriven.svg",
+        "width": 340,
+        "height": 136
+      },
+      {
+        "name": "Qualogy",
+        "url": "http://www.werkenbijqualogy.com/",
+        "logoUrl": "../images/logos/qualogy300.jpg",
+        "width": 340,
+        "height": 136
+      }
+    ]
+  },
+  {
+    "title": "silver-sponsor",
+    "logos": [{
+        "name": "M2mobi",
+        "url": "https://www.m2mobi.com/",
+        "logoUrl": "../images/logos/m2mobi.svg",
+        "width": 250,
+        "height": 100
+      },
+      {
+        "name": "Us Media",
+        "url": "http://www.usmedia.nl/",
+        "logoUrl": "../images/logos/UsMedia200.png",
+        "width": 200,
+        "height": 80
+      }
+    ]
+  },
+  {
+    "title": "bronze-sponsor",
+    "logos": [
+      {
+        "name": "Nubis",
+        "url": "http://nub.is",
+        "logoUrl": "../images/logos/nubis.png",
+        "width": 200,
+        "height": 80
+      },
+      {
+        "name": "Darwin Recruitment",
+        "url": "http://www.darwinrecruitment.com/nl",
+        "logoUrl": "../images/logos/darwin.png",
+        "width": 200,
+        "height": 80
+      },
+      {
+        "name": "Bol.com",
+        "url": "https://banen.bol.com/",
+        "logoUrl": "../images/logos/bol-com.png",
+        "width": 200,
+        "height": 80
+      }
+    ]
+  },
+  {
+    "title": "support-sponsor",
+    "logos": [
+      {
+        "name": "Minor Programmeren",
+        "url": "http://www.mprog.nl/",
+        "logoUrl": "../images/logos/minor-programmeren.png",
+        "width": 100
+      }
+    ]
+  }
+]

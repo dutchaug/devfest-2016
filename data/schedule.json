@@ -1,0 +1,92 @@
+[{
+    "date": "2016-10-08",
+    "dateReadable": "October 8",
+    "tracks": [{
+        "title": "Catwoman"
+    }, {
+        "title": "Thor"
+    }, {
+        "title": "Spiderman"
+    }, {
+        "title": "Workshop"
+    }],
+    "timeslots": [{
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "sessions": [
+            ["registration"]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "10:20",
+        "sessions": [
+            ["opening"]
+        ]
+    }, {
+        "startTime": "10:30",
+        "endTime": "11:10",
+        "sessions": [
+            ["android_0"],
+            ["cloud_0"],
+            ["web_0"]
+        ]
+    }, {
+        "startTime": "11:20",
+        "endTime": "12:00",
+        "sessions": [
+            ["android_1"],
+            ["cloud_1"],
+            ["web_1"]
+        ]
+    }, {
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "sessions": [
+            ["lunch"]
+        ]
+    }, {
+        "startTime": "13:00",
+        "endTime": "13:40",
+        "sessions": [
+            ["android_2"],
+            ["cloud_2"],
+            ["web_2"]
+        ]
+    }, {
+        "startTime": "13:50",
+        "endTime": "14:30",
+        "sessions": [
+            ["android_3"],
+            ["cloud_3"],
+            ["web_3"]
+        ]
+    }, {
+        "startTime": "14:30",
+        "endTime": "15:20",
+        "sessions": [
+            ["health_1"], ["break"], ["break"]
+        ]
+    }, {
+        "startTime": "15:20",
+        "endTime": "16:00",
+        "sessions": [
+            ["android_4"],
+            ["cloud_4"],
+            ["web_4"]
+        ]
+    }, {
+        "startTime": "16:00",
+        "endTime": "16:50",
+        "sessions": [
+            ["android_5"],
+            ["cloud_5"],
+            ["web_5"]
+        ]
+    },{
+        "startTime": "17:00",
+        "endTime": "19:00",
+        "sessions": [
+            ["party"]
+        ]
+    }]
+}]
